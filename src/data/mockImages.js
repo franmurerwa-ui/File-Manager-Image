@@ -1,17 +1,26 @@
 export const mockImages = [
-  { id: 1, name: 'Mountain Sunset.jpg', url: 'https://picsum.photos/id/10/400/400', createdAt: '2026-06-15T10:30:00Z', lastOpenedAt: '2026-06-21T08:00:00Z', size: '3.2 MB' },
-  { id: 2, name: 'City Lights.png', url: 'https://picsum.photos/id/20/400/400', createdAt: '2026-06-14T12:00:00Z', lastOpenedAt: '2026-06-20T22:00:00Z', size: '1.8 MB' },
-  { id: 3, name: 'Forest Path.jpg', url: 'https://picsum.photos/id/30/400/400', createdAt: '2026-06-13T09:15:00Z', lastOpenedAt: '2026-06-19T14:30:00Z', size: '4.1 MB' },
-  { id: 4, name: 'Ocean Waves.jpeg', url: 'https://picsum.photos/id/40/400/400', createdAt: '2026-06-12T16:45:00Z', lastOpenedAt: '2026-06-18T11:00:00Z', size: '2.3 MB' },
-  { id: 5, name: 'Desert Dunes.png', url: 'https://picsum.photos/id/50/400/400', createdAt: '2026-06-11T08:20:00Z', lastOpenedAt: '2026-06-17T09:00:00Z', size: '5.7 MB' },
-  { id: 6, name: 'Aurora Borealis.jpg', url: 'https://picsum.photos/id/60/400/400', createdAt: '2026-06-10T20:00:00Z', lastOpenedAt: '2026-06-16T23:00:00Z', size: '3.9 MB' },
-  { id: 7, name: 'Waterfall.jpeg', url: 'https://picsum.photos/id/70/400/400', createdAt: '2026-06-09T07:30:00Z', lastOpenedAt: '2026-06-15T12:00:00Z', size: '2.1 MB' },
-  { id: 8, name: 'Lake Reflection.png', url: 'https://picsum.photos/id/80/400/400', createdAt: '2026-06-08T14:00:00Z', lastOpenedAt: '2026-06-14T16:30:00Z', size: '4.5 MB' },
-  { id: 9, name: 'Snowy Peak.jpg', url: 'https://picsum.photos/id/90/400/400', createdAt: '2026-06-07T11:45:00Z', lastOpenedAt: '2026-06-13T08:45:00Z', size: '3.3 MB' },
-  { id: 10, name: 'Night Sky.jpeg', url: 'https://picsum.photos/id/100/400/400', createdAt: '2026-06-06T19:30:00Z', lastOpenedAt: '2026-06-12T21:00:00Z', size: '1.2 MB' },
-  { id: 11, name: 'Wildflowers.png', url: 'https://picsum.photos/id/110/400/400', createdAt: '2026-06-05T06:00:00Z', lastOpenedAt: '2026-06-11T07:30:00Z', size: '6.8 MB' },
-  { id: 12, name: 'Canyon View.jpg', url: 'https://picsum.photos/id/120/400/400', createdAt: '2026-06-04T13:20:00Z', lastOpenedAt: '2026-06-10T13:00:00Z', size: '2.9 MB' },
-  { id: 13, name: 'Tropical Beach.jpeg', url: 'https://picsum.photos/id/130/400/400', createdAt: '2026-06-03T09:00:00Z', lastOpenedAt: '2026-06-09T10:00:00Z', size: '3.7 MB' },
-  { id: 14, name: 'Autumn Leaves.png', url: 'https://picsum.photos/id/140/400/400', createdAt: '2026-06-02T17:45:00Z', lastOpenedAt: '2026-06-08T19:15:00Z', size: '4.3 MB' },
-  { id: 15, name: 'Foggy Morning.jpg', url: 'https://picsum.photos/id/150/400/400', createdAt: '2026-06-01T05:30:00Z', lastOpenedAt: '2026-06-07T05:45:00Z', size: '2.6 MB' },
+  {
+    id: 1,
+    name: 'Mountain Sunset.jpg',
+    url: 'https://images.unsplash.com/photo-1501785888041-af3ef285b470',
+    createdAt: '2026-06-15T10:30:00Z',
+    lastOpenedAt: '2026-06-21T08:00:00Z',
+    size: '3.2 MB'
+  },
+  {
+    id: 2,
+    name: 'City Lights.png',
+    url: 'https://images.unsplash.com/photo-1494526585095-c41746248156',
+    createdAt: '2026-06-14T12:00:00Z',
+    lastOpenedAt: '2026-06-20T22:00:00Z',
+    size: '1.8 MB'
+  },
+  {
+    id: 3,
+    name: 'Forest Path.jpg',
+    url: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e',
+    createdAt: '2026-06-13T09:15:00Z',
+    lastOpenedAt: '2026-06-19T14:30:00Z',
+    size: '4.1 MB'
+  }
 ];
